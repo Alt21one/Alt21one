@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Cyber+Security+Enthusiast;Creator+of+SecTool+Pro;Malware+Analysis+%26+Reverse+Engineering;Python+Security+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=5000&pause=1000&color=00FF00&center=false&vCenter=false&width=500&lines=Cyber+Security+Engineer;Creator+of+SecTool+Pro;Malware+Analysis+%26+Reverse+Engineering;Python+Security+Automation" alt="Typing SVG" />
 </a>
 
 🛠️ I’m currently working on: Cyber security tools at Cyber Kit Tool<br><br>👯 I’m looking to collaborate on: Security tools and open-source cyber security projects<br><br>🤝 I’m looking for help with: Improving detection methods and scanning accuracy<br><br>🌱 I’m currently learning: Malware analysis and advanced vulnerability detection<br><br>💬 Ask me about:<br>• Malware scanner<br>• Vulnerability scanner<br>• Open port scanner<br>• Email checking tools<br><br>⚡ Fun fact: I enjoy reverse engineering malware to understand how it works.
